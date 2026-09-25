@@ -1,0 +1,21 @@
+# Data files
+student_resource/dataset/
+student_resource/cache/
+*.pkl
+
+# Model files
+*.joblib
+
+# Output files
+output/
+*.tsv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+venv/
+env/
